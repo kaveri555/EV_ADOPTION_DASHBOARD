@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+{
+  "records": 45,
+  "features": 20,
+  "missing_values": 93,
+  "duplicates": 0,
+  "top_states_by_ev_rate": [
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ]
+=======
+{
+  "records": 45,
+  "features": 20,
+  "missing_values": 93,
+  "duplicates": 0,
+  "top_states_by_ev_rate": [
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Unknown",
+    "Unknown"
+  ]
+>>>>>>> 5eeee65df7e3b80b2ae52fe7bb8e52fe0e6c57af
+}
